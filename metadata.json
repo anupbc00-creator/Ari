@@ -1,0 +1,6 @@
+{
+  "name": "ARI",
+  "description": "ARI is an all-purpose AI Assistant powered by Gemini for reasoning, messaging, coding across multiple languages, and high-quality image generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
